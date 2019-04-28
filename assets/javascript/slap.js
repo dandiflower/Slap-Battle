@@ -10,70 +10,70 @@ $(document).ready(function () {
             name: "Tom Cruise",
             health: 136,
             attack: 6,
-            imageUrl: "assets/images/tom.jpg",
+            imageUrl: "assets/images/tom.jpeg",
             enemyAttackBack: 15
         },
         "Sponge Bob": {
             name: "Sponge Bob",
             health: 110,
             attack: 4,
-            imageUrl: "assets/images/bob.jpg",
+            imageUrl: "assets/images/bob.jpeg",
             enemyAttackBack: 5
         },
         "James Earl Jones": {
             name: "James Earl Jones",
             health: 175,
             attack: 8,
-            imageUrl: "assets/images/earl.png",
+            imageUrl: "assets/images/earl.jpeg",
             enemyAttackBack: 20
         },
         "Bob Barker": {
             name: "Bob Barker",
             health: 112,
             attack: 2,
-            imageUrl: "assets/images/barker.jpg",
+            imageUrl: "assets/images/barker.jpeg",
             enemyAttackBack: 25
         },
         "Tonya Harding": {
             name: "Tonya Harding",
             health: 108,
             attack: 7,
-            imageUrl: "assets/images/tonya.jpg",
+            imageUrl: "assets/images/tonya.jpeg",
             enemyAttackBack: 10
         },
         "Charles Barkley": {
             name: "Charles Barkley",
             health: 220,
             attack: 12,
-            imageUrl: "assets/images/charles.jpg",
+            imageUrl: "assets/images/charles.jpeg",
             enemyAttackBack: 15
         },
         "Peter Piper": {
             name: "Peter Piper",
             health: 116,
             attack: 4,
-            imageUrl: "assets/images/peter.jpg",
+            imageUrl: "assets/images/peter.jpeg",
             enemyAttackBack: 5
         },
         "Harry Potter": {
             name: "Harry Potter",
             health: 96,
             attack: 16,
-            imageUrl: "assets/images/harry.jpg",
+            imageUrl: "assets/images/harry.jpeg",
             enemyAttackBack: 15
         },
         "Shamu": {
             name: "Shamu",
             health: 280,
             attack: 24,
-            imageUrl: "assets/images/shamu.jpg",
+            imageUrl: "assets/images/shamu.jpeg",
             enemyAttackBack: 10
         }, 
         "Bill Gates": {
             name: "Bill Gates",
             health: 124,
             attack: 6,
-            imageUrl: "assets/images/bill.jpg",
+            imageUrl: "assets/images/bill.jpeg",
             enemyAttackBack: 25
         }
     };
